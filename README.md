@@ -1,3 +1,3 @@
 # Personal Webpage 
 
-My personal [CV](https://flavioforenza.github.io/).
+My personal [CV/Resume](https://flavioforenza.github.io/).
